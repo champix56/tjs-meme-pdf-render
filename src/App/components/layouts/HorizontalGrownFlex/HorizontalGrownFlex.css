@@ -1,0 +1,6 @@
+.HorizontalGrownFlex{
+    display: flex;
+}
+.HorizontalGrownFlex:first-child{
+    flex-grow: 1;
+}

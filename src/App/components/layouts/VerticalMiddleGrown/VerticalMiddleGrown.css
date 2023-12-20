@@ -1,0 +1,2 @@
+.VerticalMiddleGrown{display: flex;flex-direction: row; height: 97vh;}
+.VerticalMiddleGrown:nth-child(2){flex-grow: 1;}
